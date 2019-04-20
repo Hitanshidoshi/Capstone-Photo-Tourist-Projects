@@ -1,37 +1,10 @@
-## Welcome to GitHub Pages
+In this Capstone project for the Photo Tourist you will implement a Ruby on Rails web application that makes use of both a relational and NoSQL database for the backend and expose the data through services to the Internet using Web services and a responsive user interface operating in a browser from a desktop and mobile device. You will have a chance to revisit and apply what you have learned in our previous courses to build and deploy a fully functional web application to the cloud accessible to your co-workers, future employers, friends, and family.
 
-You can use the [editor on GitHub](https://github.com/Hitanshidoshi/Capstone-Photo-Tourist-Projects/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Hitanshidoshi/Capstone-Photo-Tourist-Projects/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+In developing the Photo Tourist web application, you will get to work with different data types and data access scenarios (e.g., fielded data display and update, image upload/download, text search, access controlled information) to provide your users the ability to show off their photos and information from trips they have taken and to seek out photos and information from trips taken by others. Using the application you develop, your users will be able to
+•	Create an account
+•	Upload and download photos to the site and make them accessible to others
+•	Provide descriptions of trips and photos that others can read
+•	Organize photos by location and trip, 
+•	Find photos based on location
+•	Find photos based on text searches of descriptions 
+•	Locate the place where the photo was taken on a map
